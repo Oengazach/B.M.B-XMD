@@ -11,7 +11,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "B.m.b-Xmd~1L8zDBwB#HhXU8_UwWv3jPJqgXsp8IiwtMtqNa19r1AHS9Hw6EQg",
       "required": true,
       "value": ""
     },  
@@ -31,13 +31,13 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": ".."
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
